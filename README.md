@@ -2,9 +2,6 @@
 
 > 新项目需要用到工作流设定 + 自定义表单控件，这里列出了自定义表单控件的代码实现,可实现自定义表单控件,可拖拽排序，自定义属性
 
-> 项目 UI 组件库为 [iView](https://www.iviewui.com/docs/guide/install), [Element UI](http://element-cn.eleme.io/#/zh-CN) 可根据项目内代码进行适当修改达到适用
-
-> Element版本Demo: [https://yunpan.360.cn/surl_ymAY4CPrMNx](https://yunpan.360.cn/surl_ymAY4CPrMNx) （提取码：0e00）
 
 ## 效果预览
 
